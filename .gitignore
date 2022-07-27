@@ -1,4 +1,7 @@
 node_modules/
-**/z
+# all files starting with z
+z*
+# file called .env
 .env
-/artifacts
+# top level dir called artifacts
+/artifacts/
